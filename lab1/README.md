@@ -1,1 +1,1 @@
-![alt text](photo.jpg)
+![alt text](src/photo.jpg)
